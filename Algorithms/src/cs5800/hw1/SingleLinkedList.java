@@ -10,6 +10,7 @@ class Node {
 	}
 }
 
+
 public class SingleLinkedList {
 
 	Node head;
